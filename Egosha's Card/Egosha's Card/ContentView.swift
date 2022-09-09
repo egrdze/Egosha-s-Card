@@ -25,10 +25,10 @@ struct ContentView: View {
                     .foregroundColor(.white)
                     .font(.system(size: 25))
                 Divider()
-                ExtractedView(text: "+7(952)-435-46-07", imgname: "phone.fill")
-                    ExtractedView(text: "egorlol946@gmail.com", imgname: "envelope.fill")
-                ExtractedView(text: "egoridze1", imgname: "camera.fill")
-                ExtractedView(text: "egoridze_1", imgname: "globe.americas.fill")
+                ExtractedView(text: "+7(***)-***-**-**", imgname: "phone.fill")
+                    ExtractedView(text: "****@gmail.com", imgname: "envelope.fill")
+                ExtractedView(text: "****", imgname: "camera.fill")
+                ExtractedView(text: "****", imgname: "globe.americas.fill")
                 }
                 
             }
